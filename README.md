@@ -1,1 +1,1 @@
-# kaggle_cdiscount_image_classify
+# Kaggle Cdiscount's Image Classification Challenge
